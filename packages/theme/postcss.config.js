@@ -1,13 +1,13 @@
 module.exports = (context) => {
   const isProd = context.env === 'production';
-  const useInlineMap = isProd;
 
   return {
-    map: { inline: useInlineMap },
+    map: context.options.map,
     plugins: {
       'postcss-import': {
         root: context.file.dirname,
       },
+      'postcss-extend': {},
       cssnano: isProd ? {} : false,
     },
   };

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/phillipluther/purse-ui/issues"
   },
-  "homepage": "https://github.com/phillipluther/purse-ui#readme"
+  "homepage": "https://github.com/phillipluther/purse-ui#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }

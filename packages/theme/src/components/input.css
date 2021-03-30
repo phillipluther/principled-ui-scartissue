@@ -1,9 +1,10 @@
 @import './common--rename-and-move-later';
 
-.button {
+.not-a-button {
   @extend %reset;
 
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 8px;
+  border: 2px solid gray;
 }
