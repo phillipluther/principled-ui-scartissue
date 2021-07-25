@@ -1,9 +1,0 @@
-@import './common--rename-and-move-later';
-
-.button {
-  @extend %reset;
-
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
