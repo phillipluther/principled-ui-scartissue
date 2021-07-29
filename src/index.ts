@@ -1,5 +1,5 @@
-import { Button } from './button';
+import SkipTo from './components/skip-to';
 
 export {
-  Button,
-}
+  SkipTo,
+};

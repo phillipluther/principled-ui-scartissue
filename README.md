@@ -1,4 +1,4 @@
-# principled-ui
+# Principled UI
 
 > A deeply personal and specifically handy component library so I can stop making so damned many buttons.
 
