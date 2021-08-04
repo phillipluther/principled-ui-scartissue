@@ -1,11 +1,3 @@
-# Principled UI
+# Principled UI (Scartissue)
 
-> A deeply personal and specifically handy component library so I can stop making so damned many buttons.
-
-... "buttons," of course, being a metaphor for all the fiddly, repetitive UI elements used in every project. Inputs. Modals. Dropdown menus.
-
-You get it.
-
-Components get added as needed and emphasize flexi-/scala-/accessi-bility.
-
-Until declared otherwise, this library targets an audience of one -- its author. Maybe someday it'll open up.
+This repo was going to be a personal component library but ended up as a series of stutter-starts. It's been archived and _real_ (or real'ish) work is being done [here](https://github.com/phillipluther/principled-ui).
